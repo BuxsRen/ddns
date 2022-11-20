@@ -1,0 +1,7 @@
+app:
+  secret_id: "abc" # id
+  secret_key: "vvv" # key
+  sub_domain: "@" # 子域名 www
+  domain: "baidu.com" # 域名
+  record_id: 10086 # 记录ID
+  time: 1 # 检测频率，单位：分钟
